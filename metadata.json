@@ -1,0 +1,6 @@
+{
+  "name": "Belle & Bow Kitchens",
+  "description": "Independent bespoke kitchen, bedroom, media wall, panelling, and Venetian plaster design studio in Telford, serving Shropshire, Staffordshire, and Birmingham.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
